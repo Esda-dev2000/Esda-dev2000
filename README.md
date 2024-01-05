@@ -5,11 +5,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-🚀 Data Enthusiast | Science to Data Analyst Career Switcher Passionate about transforming raw data into actionable insights! I successfully pivoted from a scientific background to a data-driven career, seeking new challenges and thriving in the world of data analysis and visualization. 🔍 Experience with Diverse Data Sets: HR Data Covid-19 Data Financial and Sales Data Historical economic data 💻 Tech Stack: Languages: Python, SQL Tools: Excel, Power BI, Tableau Collaboration: Jira, Confluence 📊 Highlights: - Deriving insights that drive informed decision-making. - Crafting impactful visualisations for effective data communication. - Proficient in Python and SQL for data manipulation and analysis. - Expertise in Excel, Power BI, and Tableau for comprehensive reporting. - Collaborative workflow using Jira and Confluence. - Let's connect and explore the fascinating world of data together! 📈✨
+🚀 Data Enthusiast | Science to Data Analyst Career Switcher 
+Passionate about transforming raw data into actionable insights! I successfully pivoted from a scientific background to a data-driven career, seeking new challenges and thriving in data analysis and visualisation. 
+
+🔍 Experience with Diverse Data Sets: 
+- HR Data
+- Covid-19 Data
+- Financial and Sales Data
+- Historical economic data 
+
+💻 Tech Stack:
+Languages: Python, SQL 
+Tools: AWS, Excel, Power BI, Tableau 
+Collaboration: Jira, Confluence
+
+📊 Highlights: 
+- Deriving insights that drive informed decision-making.
+- Crafting impactful visualisations for effective data communication.
+- Proficient in Python and SQL for data manipulation and analysis.
+- Expertise in Excel, Power BI, and Tableau for comprehensive reporting.
+- Collaborative workflow using Jira and Confluence.
 
 * 🌍  I'm based in London UK
 * ✉️  You can contact me at [Esther-seye@hotmail.com](mailto:Esther-seye@hotmail.com)
-* 🧠  I'm learning SQL and python based projects
+* 🧠  I'm learning SQL and Python-based projects
 
 ### Skills
 
